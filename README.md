@@ -68,7 +68,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://hoangquanit.com" target="blank">
-    <img width="90" height="90" src="./Hoangquan.png" alt="hoangquan-logo" />
+    <img width="90" height="90" src="./logo.png" alt="hoangquan-logo" />
   </a>
   <a href="https://facebook.com/hoangquanit17" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoangquandev-facebook" />
